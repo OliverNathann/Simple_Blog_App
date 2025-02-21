@@ -13,7 +13,7 @@ Simple Blog adalah aplikasi berbasis **Spring Boot** yang memungkinkan pengguna 
 
 ## Tech Stack
 - **Backend:  Java, Spring Boot, Spring Security, JPA, Hibernate
-- **Database: MySQL / PostgreSQL
+- **Database: PostgreSQL
 - **Build Tool:  Maven
 - **Authentication: JWT (JSON Web Token)
 
