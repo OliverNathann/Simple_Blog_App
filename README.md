@@ -36,12 +36,11 @@ Simple-Blog/
 
 ## Installation & Setup
 ### 1️⃣ Clone Repository
-```sh
 git clone https://github.com/OliverNathann/Simple_Blog_App.git
 cd Simple_Blog_App
-```
 
-### 2️⃣ Konfigurasi Database (MySQL/PostgreSQL)
+
+### 2️⃣ Konfigurasi Database (PostgreSQL)
 Edit `src/main/resources/application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/simple_blog
