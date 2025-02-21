@@ -86,5 +86,8 @@ Gunakan **JWT Token** untuk autentikasi:
 - mvn clean install
 - mvn spring-boot:run
 
+## **POSTMAN COLLECTION
+https://drive.google.com/file/d/1XWjcl6BtRBC7cDUlrZEshfmz3A5NZwR2/view?usp=sharing
+
 ## 📝 License
 2025 Oliver Nathan
